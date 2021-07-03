@@ -1,5 +1,5 @@
 example_id                    | status | run_time        |
 ----------------------------- | ------ | --------------- |
 ./spec/training_rspec.rb[1:1] | passed | 0.00092 seconds |
-./spec/user_rspec.rb[1:1:1:1] | passed | 0.00058 seconds |
-./spec/user_rspec.rb[1:1:2:1] | passed | 0.00011 seconds |
+./spec/user_rspec.rb[1:1:1:1] | passed | 0.00105 seconds |
+./spec/user_rspec.rb[1:1:2:1] | passed | 0.00067 seconds |
