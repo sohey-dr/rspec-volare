@@ -3,7 +3,7 @@ require 'spec_helper'
 RSpec.describe User do
   describe "#greet" do
     subject { user.greet } 
-    let(:user) {User.new(name: "たろう", age: age)}
+    let(:user) { User.new(name: "たろう", age: age) }
 
     context "12歳以下の時" do
       let(:age) {12}
